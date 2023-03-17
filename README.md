@@ -1,4 +1,4 @@
-# Functions
+# Solving Regression and Classification Problems using Python
 
 ## Introduction
 This project is a program that uses training data to choose four best functions, which are a best fit, out of 50. The program uses the test data provided to determine, for each x-y pair values, whether or not they can be assigned to the four best functions. The program also includes some logical data visualization.  
